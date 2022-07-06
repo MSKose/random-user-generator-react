@@ -31,6 +31,6 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Outcome [Live site]()
+## Outcome [Live site](https://mskose-random-user-generator-react.netlify.app/)
 
 <!-- ![Project 004 Snapshot](random-user-app.gif) -->
